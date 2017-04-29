@@ -23,7 +23,7 @@
     "TestResults": {
       "type": "hasMany",
       "model": "TestResults",
-      "foreignKey": ""
+      "foreignKey": "userId"
     }
   },
   "acls": [],
